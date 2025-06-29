@@ -1,3 +1,5 @@
-# customizable_folders
+# Сustomizable Folders
 
-A new Flutter project.
+**Customizable Folders** is an application for macOS that allows you to customize folders
+
+![Сustomizable Folders](customizable_folders.png)
